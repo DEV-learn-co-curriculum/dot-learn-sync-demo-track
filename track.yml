@@ -11,4 +11,7 @@ track:
             lessons:
             -   title: Baz
                 uuid: 9f6bf818-5179-4de6-b449-8b5c936730b6
-                contents: []
+                contents:
+                -   title: Flatiron Kitchen
+                    source: https://github.com/learn-co-curriculum/flatiron-kitchen
+                    uuid: 988206f6-e131-40a9-9cd3-7852281acb9f
