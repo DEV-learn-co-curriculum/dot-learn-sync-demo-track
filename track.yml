@@ -8,4 +8,10 @@ track:
         units:
         -   title: Bar
             uuid: 643768ed-593f-4fb1-8c5c-b26a2de196fb
-            lessons: []
+            lessons:
+            -   title: Baz
+                uuid: 3fe81339-980e-4f3a-97c3-2a7cc33c6af4
+                contents:
+                -   title: Green Grocer
+                    source: https://github.com/learn-co-curriculum/green_grocer
+                    uuid: e9f2976e-12bd-4109-90d2-513b382de139
